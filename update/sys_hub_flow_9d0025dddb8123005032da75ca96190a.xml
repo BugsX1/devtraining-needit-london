@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>false</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>challenge</internal_name>
+        <label_cache>[{"name":"ce1c5310-7112-44a1-a897-0202001f464e.Record","label":"1➛Record","reference":"task","reference_display":"Task","type":"document_id","base_type":"document_id"},{"name":"ce1c5310-7112-44a1-a897-0202001f464e.Table","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"0ef68a52-9e49-4dee-9786-4189854e9b1c.record","label":"1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"0ef68a52-9e49-4dee-9786-4189854e9b1c.table_name","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"4f44d6f4-c56d-430a-8280-ab5135ef637a.property_valueparameter","label":"1➛Property valueparameter","reference_display":"Property valueparameter","type":"string","base_type":"string"},{"name":"7bc8cd06-00dd-40a3-880b-8f04c82af0e1.property_valueparameter","label":"2➛Property valueparameter","type":"string","base_type":"string"},{"name":"57c4a31b-d7ab-4cf7-9f48-f409c0526dae.Records","label":"3➛NeedIt Task Records","reference":"x_58872_needit_needit_task","reference_display":"NeedIt Task","type":"records","base_type":"records"},{"name":"57c4a31b-d7ab-4cf7-9f48-f409c0526dae.Table","label":"3➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"57c4a31b-d7ab-4cf7-9f48-f409c0526dae.Count","label":"3➛Count","reference_display":"Count","type":"integer","base_type":"integer"},{"name":"7fa67a3d-53a0-4fdf-ba3e-3f985719ac57.item","label":"4➛NeedIt Task Record","reference":"x_58872_needit_needit_task","reference_display":"NeedIt Task","type":"reference","base_type":"reference"}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Challenge</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>true</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-08 15:50:52</sys_created_on>
+        <sys_id>9d0025dddb8123005032da75ca96190a</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Challenge</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_hub_flow_9d0025dddb8123005032da75ca96190a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-08 16:00:08</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=9d0025dddb8123005032da75ca96190a"/>
+    <sys_variable_value action="delete_multiple" query="document_key=9d0025dddb8123005032da75ca96190a"/>
+</record_update>
